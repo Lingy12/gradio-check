@@ -1,0 +1,4 @@
+tmp/
+flagged/
+*.log
+*_check.sh
